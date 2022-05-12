@@ -4,4 +4,4 @@ ipaddress1='10.1.1.1'
 sw_name='SW-1'
 password_sw=my_input()
 print (f'Пароль установлен, новое значение: {password_sw}')
-print('hello')
+print("new")
